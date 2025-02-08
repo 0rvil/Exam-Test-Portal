@@ -220,7 +220,7 @@ public class Instructor {
 
         HttpClient client = HttpClient.newHttpClient();
 
-        final String API_KEY = "AIzaSyAJVpQ9ojNcqwRlFmTl_z423lf-QBI5thw";
+        final String API_KEY = "<API KEY>";
 
         String questionsWordType = numberOfQuestions > 1 ? "questions" : "question";
 
