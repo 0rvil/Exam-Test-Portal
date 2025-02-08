@@ -1,0 +1,136 @@
+You need to initalize a variable before you can use it.
+Array indexes always starts at 0.
+Arrays may not be of any type.
+Once created, an array size can be modified. 
+The subscript identifies which element in the array to access.
+Array of int[10] would have indexes of 0 through 9.
+The if statement decides whether a section of code executes or not.
+A boolean expression can result in values other than true or false.
+String is a primitive data type.
+Java is a object-oriented programmin language
+All computers must have an operating system. 
+The JVM (java virtual machine) can run on a very limited number of computers. 
+RAM is volatile meaning all data is erased when the computer is shut down. 
+The short and float data types are the same size (in bytes).  
+In a method header, you can only include 1 exception per "throws" clause. 
+A compiler converts high-level instructions into machine code for execution.
+Variables must be declared outside of the main method.
+A "break" statement must be used after all cases in a "switch" selection besides the "default" case.
+All elements of an array must be of the same data type.
+The "==" operator is used to declare a variable.
+A java source code file contains one or more Java classes.
+The print method places a newline character at the end of whatever is being print out
+If you want to express that x greater than or equal to y, then it can express x => y
+The conditionally executed statement should be on the line after the if condition.
+Arrays allow us to create a collection of like values that are indexed.
+RAM stands for Random Access Memories
+Char variables can be either upper or lowercase.
+If a source code file has more than one class, only one may be public.
+In Java, not every opening brace needs a closing brace.
+Single line comments in Java begin with /*
+RAM stands for Random Access Memory
+In coding all data types use the same amount of memory storage
+Pixels are dots of color that make up an image
+If all of the {} and ; are taken out of a program it will always run the same as when the {} and ; are there
+When coding constants are generally written in ALL CAPS
+Desktop computers always have a seperate monitor
+The CPU is considered the brain of the computer
+All computers do the exact same function
+ROM stands for Read Only Memory
+Super Computers are only used to do calculations 
+Java is the only programming language.
+The term software refers to the physical components of a computer.
+The Java programming language was originally called Oak.
+Secondary storage devices are non-volatile.
+The Java compiler is a command line utility.
+Bill Gates founded Microsoft.
+There can be up to 3 main methods in a class.
+Windows is a Linux based operating system.
+CPU is an ackrokym for Central Processing Unit.
+The Hard-disk only holds memory until the computer is turned off.
+IDE stands for "Integrated Development Environment".
+The basic functions of a CPU are to Fetch, Decode, and then Execute Data.
+Operating systems have two functions: to control system resources and to provide a UI for the user.
+A variable is a value written into the code of the program.
+Scope refers to the part of the program that has access to a variables constant.
+In Java, Mary and mary have different values.
+Strict rules in programming are known as syntax.
+X-- adds a single value to X.
+The if statement uses a boolean to decide whether to run or not.
+RAM contains currently running programs and saved word files.
+JVM is stand for Java Virtual Machine
+When the break statement is encountered in a loop, all the statements in the body of the loop that appear after it are ignored, and the loop prepares for the next iteration.
+If you are using a block of statements, don't forget to enclose all of the statements in a set of semicolons.
+A Boolean expression is one that is either true or false
+Pretest loops are while, for and do-while             
+A printer is an input device.
+When the computer is turned off, the contents of RAM are not erased.
+A byte is made up of 8 bits.
+A hard drive is a secondary storage device.
+In Java programming, semi-colon marks the end of a complete programming statement.
+The "brain" of the computer is the CPU
+CPU stands for central processing unit
+Java is exactly the same as C++
+In coding we type integers with int
+There is no true or false in programming
+The more GB of RAM the slower the computer
+loops are almost never used in programming
+Different programming languages often require different syntax
+Semi-colons are required to show the end of a statement
+Operating systems are not useful to the everyday user
+A keyboard is an input device.
+RAM stands for random access module.
+Java uses semi-colons on every line of code written.
+A solid state drive is faster than a hard drive.
+You can only run one program at a time on Windows 7.
+RAM stands for Rotating Access Memory
+CPU stands for Central Processing Unit 
+8 bytes makes up a bit
+Mac can also run Windows
+There is no such thing as an infinite loop
+The modulus operator (%) in Java can be used only with variables of integer type.
+Declarations must appear at the start of the body of a Java method.
+For the expression (y >= z && a == b) to be true, at least one of (y >= z) and (a == b) must be true.
+The operating system serves as an intermediary between the user and the computer hardware.
+A disk drive is an example of a secondary storage device.
+A hybrid hard drive is a mix of both the Primary and Secondary Storage.
+Pressing Alt + F4 closes your current running program.
+The Bios starts up after your OS.
+Pressing Ctrl + Shift + Esc brings up the comand prompt.
+Microsoft Edge is the superior choice when using a browser.
+The length of a string can be determined by one command.
+In java, the output of 1/ 5 =  .2
+Arrays index values can be chosen by the user.
+Sentinal Value is a value that ends a loop.
+The float and double data types store the same amount of memory.
+Key words are all lowercase.
+Arrays can store many types of data at once.
+The do while loop is a post test loop.
+Source code files have a .class file extension.
+Java have three logical operators(&&, ||, !) that are used to combine boolean expressions.
+public class simple is an example of a method header.
+To run a java program you would enter java (class name).
+All java statements end in a semicolon.
+An integer takes up 8 bytes?
+Constants are declared using the keyword final.
+There are 3 loops we have learned, but only one is a pre-test loop.
+A break statement is considered good practise when using loops.
+A double can be forced into a float using the letter 'F'.
+A double variable can hold a number with a decimal point.
+There are 4 components to the major hardware of a computer.
+JVM stands for Java Virtual Machine
+Array values initialize to 1 by default
+A for loop contains 3 arguments seperated by semicolons
+The java compiler changes byte code to source code.
+Every application must have a main method.
+Java is a programming language.
+An interface in Java can have method implementations.
+A static method can only access static variables.
+Java is a compiled language.
+A constructor is a special method that is used to initialize an object.
+Polymorphism allows a subclass to have a different implementation of a method inherited from its superclass.
+A cat is a mammal
+The 'break' statement in Java is used to exit a loop.
+The main method must be private
+A constructor is a special method that has the same name as the class.
+A stack is a data structure that follows the Last In, First Out (LIFO) principle.
